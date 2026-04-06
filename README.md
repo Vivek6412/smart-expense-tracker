@@ -1,4 +1,4 @@
-# smart-expense-tracker
+💰 Smart Expense Tracker
 
 A Python-based application to track, analyze, and visualize personal expenses using both CLI and GUI.
 
