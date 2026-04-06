@@ -29,11 +29,16 @@ A Python-based application to track, analyze, and visualize personal expenses us
 ---
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/515b6e55-2bab-4cfb-ba69-62c1db84ab06" />
+## 📸 Screenshots
 
-<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/40a06752-d74b-4b6a-a44a-0e80f4102bca" />
+### 🖥️ GUI
+![GUI](gui.png)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/432591de-dafe-4b70-9cba-2d88d42c038c" />
+### 📊 Pie Chart
+![Chart](chart.png)
+
+### 💻 CLI Output
+![CLI](cli.png)
 
 
 ---
